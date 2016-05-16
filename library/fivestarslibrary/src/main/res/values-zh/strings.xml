@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FiveStarsLibrary</string>
+    <string name="rating_button_rate">提交</string>
+    <string name="rating_enjoy">喜歡這個App嗎？</string>
+    <string name="rating_invitation" formatted="true"> 若您喜歡使用 %s，請跟我們分享您的評價以及分享給您的朋友！</string>
+    <string name="rating_positive">好</string>
+    <string name="rating_rate_experience"> 你對目前為止用 %s 的體驗有何評價？</string>
+    <string name="rating_refuse">不做評價</string>
+    <string name="rating_tell_us"> 請提供您的意見</string>
+</resources>

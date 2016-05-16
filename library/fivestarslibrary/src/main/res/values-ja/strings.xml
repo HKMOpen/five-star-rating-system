@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FiveStarsLibrary</string>
+    <string name="rating_button_rate">すぎにくらべてみる</string>
+    <string name="rating_rate_experience" formatted="true">%s の評価は？</string>
+    <string name="rating_tell_us">あなたはどう思う？</string>
+    <string name="rating_refuse">けっこうです</string>
+    <string name="rating_positive">もちろん</string>
+    <string name="rating_invitation">これらのアプリが気に入ったら、アップルストアでいいね/おすすめ</string>
+    <string name="rating_enjoy">アプリは役に立ちましたか？</string>
+</resources>
