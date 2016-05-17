@@ -26,7 +26,7 @@ To use the library, first include it your project using Gradle
     }
 
 	dependencies {
-	        compile 'com.ui.Angtrim:fivestarsratingsystem:v1.0.0'
+	        compile 'com.ui.Angtrim:fivestarsratingsystem:1.0.0'
 	}
 
 ```
