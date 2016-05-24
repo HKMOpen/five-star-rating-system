@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name" translatable="false">FiveStarsLibrary</string>
     <string name="rating_enjoy">Enjoying our App?</string>
-    <string name="rating_invitation">If you love using our App, please take a moment to rate it in the App Store and recommend others!</string>
+    <string name="rating_invitation">If you love using our App, please take a moment to rate it in the Play Store and recommend others!</string>
     <string name="rating_tell_us">Tell us what you think</string>
     <string name="rating_rate_experience" formatted="true">How would you rate your %s experience?</string>
     <string name="rating_button_rate">Rate</string>
